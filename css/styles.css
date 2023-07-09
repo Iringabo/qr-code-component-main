@@ -1,0 +1,36 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body {
+    background-color: #d5e1ef;
+    text-align: center;
+}
+
+img {
+    border-radius: 10%;
+    max-width: 100%;
+    height: auto;
+    padding: 15px;
+    box-sizing: border-box
+}
+
+.image-container {
+    background-color: white;
+    bottom: 530px;
+    border-radius: 5%;
+    margin: 150px auto;
+    width: 20%;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-family: sans-serif;
+    
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 40px;
+}
+#text {
+    margin: 20px;
+}
